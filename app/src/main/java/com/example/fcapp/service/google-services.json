@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "469634988889",
+    "project_id": "fcapp-13c2f",
+    "storage_bucket": "fcapp-13c2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469634988889:android:4d8e5b38a6aa86dadbaa48",
+        "android_client_info": {
+          "package_name": "com.example.fcapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR0tJP_7R7-I5__6iN0sI2x1h3O6jsTx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
